@@ -5,7 +5,7 @@ import instagram from '../assets/icons/instagram.svg'
 import github from '../assets/icons/github.svg'
 import pin from '../assets/icons/pin.svg'
 import tie from '../assets/icons/tie.svg'
-import mightycoder from '../assets/mightycoder.svg'
+import mightycoder from '../assets/projects_images/apu.JPG'
 import resume from '../assets/resume.pdf'
 import { motion } from 'framer-motion'
 
